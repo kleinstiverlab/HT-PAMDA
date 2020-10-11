@@ -12,7 +12,7 @@ HT-PAMDA is used to comprehensively profile the protospacer-adjacent motif (PAM)
 
 |SpCas9|SpRY |
 |:----:|:---:|
-|<img src="https://github.com/rtwalton/PAMDA/blob/master/figures/github_example_figures/PAMDA_HEATMAP_sample_01_WT_SpCas9.png" alt="PAM preference of SpCas9" width="450"/>|<img src="https://github.com/rtwalton/PAMDA/blob/master/figures/github_example_figures/PAMDA_HEATMAP_sample_03_SpRY.png" alt="PAM preference of SpRY" width="450"/>|
+|<img src="https://github.com/kleinstiverlab/HT-PAMDA/blob/master/figures/github_example_figures/PAMDA_HEATMAP_sample_01_WT_SpCas9.png" alt="PAM preference of SpCas9" width="450"/>|<img src="https://github.com/kleinstiverlab/HT-PAMDA/blob/master/figures/github_example_figures/PAMDA_HEATMAP_sample_03_SpRY.png" alt="PAM preference of SpRY" width="450"/>|
 
 ## Installation
 
