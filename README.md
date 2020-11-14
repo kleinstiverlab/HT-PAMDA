@@ -18,13 +18,13 @@ HT-PAMDA is used to comprehensively profile the protospacer-adjacent motif (PAM)
 
 Download the repository (on Github use the green "Clone or download" button and select "Download Zip"). Expand the zip file in a convenient location.
 
-In Terminal, go to the repository directory and create a Python 3 virtual environment with a command like:
+In Terminal, go to the repository directory and create a Python 3 virtual environment:
 
 ```
 python3 -m venv venv
 ```
 
-This will create a virtual environment called `venv`. Next, the commands in `install.sh` will add the required packages to the `venv` virtual environment:
+This will create a virtual environment called `venv`. Next, the commands in `install.sh` will add the required packages to the `venv` virtual environment. The installation should take no more than a few minutes.
 
 ```
 sh install.sh
@@ -67,6 +67,8 @@ Navigate to the `code` directory, open the `library_QC_inputs.py` file, and ente
 ```
 python3 library_QC.py
 ```
+
+On the provided example data, this step should only take a few seconds.
 
 ## Input parameters
 ### Required parameters
@@ -202,7 +204,7 @@ python3 normcount2rate.py
 python3 rate2heatmap.py
 ```
 
-The analysis can be run on the provided example data by leaving all parameters at their default values.
+The analysis can be run on the provided example data by leaving all parameters at their default values. On the example data, the complete analysis should take about a minute.
 
 Additionally, barcodes for all samples from [Walton et al. (Science, 2020)](https://science.sciencemag.org/content/368/6488/290) are available (Table S7 - PAMDA data summary) and can be used to analyze HT-PAMDA data uploaded to the NCBI sequence read archive (SRA) under [BioProject ID: PRJNA605711](http://www.ncbi.nlm.nih.gov/bioproject/605711).
 
