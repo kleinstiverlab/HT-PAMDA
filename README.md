@@ -91,7 +91,7 @@ Barcodes should be provided 5' to 3' as they appear in the primer sequences that
 
 |fastq complete file names       |abbreviated name|
 |:-------------------------------|:--------------:|
-|control_S1_L001_R1_001.fastq.gz |timepoint1_S1   |
+|control_S1_L001_R1_001.fastq.gz |control_S1      |
 |control_S1_L001_R2_001.fastq.gz |                |
 |control_S1_L002_R1_001.fastq.gz |                |
 |control_S1_L002_R2_001.fastq.gz |                |
