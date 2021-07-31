@@ -36,7 +36,7 @@ PAMDA.check_inputs(RUN_NAME,
                    LOG_SCALE_HEATMAP)
 
 # run the complete pamda pipeline:
-PAMDA.PAMDA_fastq2count(RUN_NAME,
+PAMDA.fastq2count(RUN_NAME,
                         BARCODE_CSV,
                         FASTQ_DIR,
                         TIMEPOINT_FASTQ,
